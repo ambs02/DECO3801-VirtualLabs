@@ -7,7 +7,7 @@ typed tutorial is below:
 
 https://github.com/Unity-Technologies/barracuda-release
 download this zip file 
-(bg_remove/bg_tutorial_images/NNCam_project_files.png)
+[bg_remove/bg_tutorial_images/NNCam_project_files.png]
 
 in unity project 
 * windows 
