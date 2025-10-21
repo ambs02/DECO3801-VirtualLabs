@@ -1,5 +1,3 @@
-# DECO3801
-
 how to setup body tracking 
 
 follow tutorial: https://www.youtube.com/watch?v=xKRPwEDwzNg
@@ -7,7 +5,6 @@ typed tutorial is below:
 
 https://github.com/Unity-Technologies/barracuda-release
 download this zip file 
-(NNCam_project_files.png)
 
 in unity project 
 * windows 
@@ -26,7 +23,7 @@ assets
 create new folder VirtualBG
 drag and drop all files to folder VirtualBG
 * effect, effect2, nncam, onyx, pose, room, etc. 
-￼
+![NNCam Project Files](bg_remove/bg_tutorial_images/NNCam_project_files.png)￼
 
 
 open room scene 
@@ -47,7 +44,8 @@ in room scene camera
 choose nncam resource
 then open nncam
 set model to stride16
-￼
+![Choose Model](bg_remove/bg_tutorial_images/Choose_model.png)￼
+
 
 
 
@@ -63,12 +61,26 @@ in the corresponding files, replace all these scripts
 ￼
 ￼
 ￼
-after adding, go to Room scene, and ensure all the inspector settings look like this ^^
+after adding, go to Room scene, and ensure all the inspector settings look like this 
 VERY IMPORTANT: in the colour, make sure that A value is set to 0
+![Inspector settings 1](bg_remove/bg_tutorial_images/Inspector_settings_1.png)￼
+![Inspector settings 2](bg_remove/bg_tutorial_images/Inspector_settings_2.png)￼
+![Inspector settings 3](bg_remove/bg_tutorial_images/Inspector_settings_3.png)￼
+
 
 change the screen size from Free Aspect -> Full HD
+![Full HD mode](bg_remove/bg_tutorial_images/Full_hd.png)￼￼
+
+
+go to EDIT -> Project Settings -> Graphics
+![Project settings](bg_remove/bg_tutorial_images/Project_settings.png)￼
 ￼
+set Render Pipeline to None
+![Render pipeline](bg_remove/bg_tutorial_images/Render_pipeline.png)￼
+
+
 run the game and it should work 
 example:
+![Final Example](bg_remove/bg_tutorial_images/Final.png)￼
 ￼
 
