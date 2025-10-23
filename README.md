@@ -30,6 +30,9 @@ This [video](https://drive.google.com/file/d/1_TkEGsu-WP6Ft_rE3k-2So14jiAp_xYt/v
 ![Device](materials/Device.png)
 <p>Please observe in the user setup, decorated and themed box (without lid, but capable of blackout features); tempered glass and monitor used for the Pepper's Ghost projection; external tripod with IOS phone attached.<br></p>
 
+![InsideUser](materials/InsideUser.png)
+<p>Please see what the user sees inside the blackout box. Including a Pepper's Ghost of sychronised hand tracking and drawing, colour cubs and colour changing, and body tracking of the other user (using the laptop).<br></p>
+
 <p>SampleScene is built on and for MacOS.<br> It is a unique installtion system that combines interactive digital drawing interactions ames with the feel and social advantages of physical meetings.</p>
 
 
