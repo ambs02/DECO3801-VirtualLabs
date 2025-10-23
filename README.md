@@ -2,7 +2,7 @@
 
 ## Project Details  
 
-[Project 10C: Building social connections in virtual worlds]
+[Project 10C: Building social connections in virtual worlds](materials/10C Project Brief.pdf)
 
 ## Virtual Labs - Members & Roles  
 
@@ -16,7 +16,7 @@ YUAN LIANG - Interactions Design, User Testing</p>
 ## Repository Organsation 
 
 This repository is organised into the following folders: 
-- materials: containing the supporting documents and images for this Readme file.<br>
+- materials: containing the supporting documents and images for this README file.<br>
 - bg_remove:  containing the project codebase for background removal for body-edge tracking.<br>
 - unitypackage 1:  containing the Unity package for feature INSERT FEATURE HERE.<br>
 - report: containing the [Technical Report](report/Technical%20Report.pdf).<br>
@@ -67,87 +67,86 @@ This [video](https://drive.google.com/file/d/1xVoj_Eiwpj51UO0Rtrk1rOHaiAB83Vxe/v
 - Face the cameras used for drawing (webcam and phone), and pinch to draw. It is recommended to draw slowly at first to ensure your hand is being detected. 
 
 ## To install and run the game in a Git Bash shell on a Windows computer
-<p>These instructions remain in the prototype code to assist with code debugging and game demonstration on a computer, but will not be available to users of the device.</p>
-How to setup body tracking 
+<p>These instructions remain in the prototype code to assist with code debugging and game demonstration on a computer, but will not be available to users of the device.</p><br> 
+How to setup body tracking <br> 
 
-Follow tutorial here: https://www.youtube.com/watch?v=xKRPwEDwzNg
-Tutorial below:
+Follow tutorial here: https://www.youtube.com/watch?v=xKRPwEDwzNg<br> 
+Tutorial below:<br> 
 
-https://github.com/Unity-Technologies/barracuda-release
-Download this zip file 
+https://github.com/Unity-Technologies/barracuda-release<br> 
+Download this zip file <br> 
 
 In unity project, navigate to: 
-* Windows 
-* Package manager
-* Add package from disk 
-* Select barracuda folder
-* Select pacakge.json
-* Should be version 3.0.1
+- Windows 
+- Package manager
+- Add package from disk 
+- Select barracuda folder
+- Select pacakge.json
+- Should be version 3.0.1
 
 
 
-https://github.com/keijiro/NNCam
-Download this project 
+https://github.com/keijiro/NNCam<br> 
+Download this project <br> 
 
 Navigate to:
-* NNCAM
-* Assets
-* Create new folder in Unity project called VirtualBG
-* Drag and drop all files to folder VirtualBG
-* eg. effect, effect2, nncam, onyx, pose, room, etc. 
-![NNCam Project Files](materials/NNCam_project_files.png)
+- NNCAM
+- Assets
+- Create new folder in Unity project called VirtualBG
+- Drag and drop all files to folder VirtualBG
+- eg. effect, effect2, nncam, onyx, pose, room, etc. 
+![NNCam Project Files](materials/NNCam_project_files.png)<br> 
 
 
-Open Room scene 
-Click Camera
-Define camera divide name in webcam input script to be laptop's camera
-
-
-
-https://github.com/keijiro/NNCam/releases/tag/v0.0.1
-Download the BodPixOnnx zip file
-
-
-Open VirtualBG folder 
-Open ONNX folder
-Copy paste all the downloaded files into the folder
-
-In Room scene Camera
-Choose NNCam resource
-Open NNCam
-Set model to stride16
-![Choose Model](materials_images/Choose_model.png)
+Open Room scene <br> 
+Click Camera<br> 
+Define camera divide name in webcam input script to be laptop's camera<br> 
 
 
 
+https://github.com/keijiro/NNCam/releases/tag/v0.0.1<br> 
+Download the BodPixOnnx zip file<br> 
 
-Now return to repository:
+
+Open VirtualBG folder <br> 
+Open ONNX folder<br> 
+Copy paste all the downloaded files into the folder<br> <br> 
+
+In Room scene Camera<br> 
+Choose NNCam resource<br> 
+Open NNCam<br> 
+Set model to stride16<br> 
+![Choose Model](materials/Choose_model.png)
+
+
+
+
+Now return to repository:<br> 
 https://github.com/ambs02/DECO3801-VirtualLabs
 
-In the bg_remove folder you’ll find NNCam and Room scripts
-In the corresponding files in the Unity project, replace all these scripts
+In the bg_remove folder you’ll find NNCam and Room scripts.<br> In the corresponding files in the Unity project, replace all these scripts
 
 
-￼
-After adding, go to Room scene, and ensure all the inspector settings look like this
-VERY IMPORTANT: in the colour, make sure that A value is set to 0
+
+After adding, go to Room scene, and ensure all the inspector settings look like this<br> 
+VERY IMPORTANT: in the colour, make sure that A value is set to 0<br> 
 ![Inspector settings 1](materials/Inspector_settings_1.png)
 ![Inspector settings 2](materials/Inspector_settings_2.png)
 ![Inspector settings 3](materials/Inspector_settings_3.png)
 
 
-Change the screen size from Free Aspect -> Full HD
+Change the screen size from Free Aspect -> Full HD<br> 
 ![Full HD mode](materials/Full_hd.png)￼￼
 
 
-Navigate to EDIT -> Project Settings -> Graphics
+Navigate to EDIT -> Project Settings -> Graphics<br> 
 ![Project settings](materials/Project_settings.png)
 
-Set Render Pipeline to None
+Set Render Pipeline to None<br> 
 ![Render pipeline](materials/Render_pipeline.png)￼
 
 
-Run the game  
+Run the game  <br> 
 Example:
 ![Final Example](materials/Final.png)
 
