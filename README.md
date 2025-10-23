@@ -2,7 +2,7 @@
 
 ## Project Details  
 
-[Project 10C: Building social connections in virtual worlds](materials/10C Project Brief.pdf)
+[Project 10C: Building social connections in virtual worlds](materials/10C%20Project%20Brief.pdf)
 
 ## Virtual Labs - Members & Roles  
 
@@ -19,17 +19,19 @@ This repository is organised into the following folders:
 - materials: containing the supporting documents and images for this README file.<br>
 - bg_remove:  containing the project codebase for background removal for body-edge tracking.<br>
 - unitypackage 1:  containing the Unity package for feature INSERT FEATURE HERE.<br>
-- report: containing the [Technical Report](report/Technical%20Report.pdf).<br>
 
 ## Video
 
-This [video](https://drive.google.com/file/d/1xVoj_Eiwpj51UO0Rtrk1rOHaiAB83Vxe/view?usp=sharing) showcases details of the hardware and setup.<br> 
+This [video](https://drive.google.com/file/d/1_TkEGsu-WP6Ft_rE3k-2So14jiAp_xYt/view?usp=sharing) showcases details of the hardware and setup.<br> 
+
 
 ## Device Specifications
 
-![Device](materials/Device.jpg)
+![Device](materials/Device.png)
+<p>Please observe in the user setup, decorated and themed box (without lid, but capable of blackout features); tempered glass and monitor used for the Pepper's Ghost projection; external tripod with IOS phone attached.<br></p>
 
 <p>SampleScene is built on and for MacOS.<br> It is a unique installtion system that combines interactive digital drawing interactions ames with the feel and social advantages of physical meetings.</p>
+
 
 
 <p>It's features include: </p>
@@ -82,7 +84,7 @@ In unity project, navigate to:
 - Add package from disk 
 - Select barracuda folder
 - Select pacakge.json
-- Should be version 3.0.1
+- Should be version 3.0.1 <br> 
 
 
 
@@ -136,8 +138,7 @@ VERY IMPORTANT: in the colour, make sure that A value is set to 0<br>
 
 
 Change the screen size from Free Aspect -> Full HD<br> 
-![Full HD mode](materials/Full_hd.png)￼￼
-
+![Full HD mode](materials/Full_hd.png)
 
 Navigate to EDIT -> Project Settings -> Graphics<br> 
 ![Project settings](materials/Project_settings.png)
