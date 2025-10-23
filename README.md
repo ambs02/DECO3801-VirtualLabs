@@ -71,10 +71,7 @@ This [video](https://drive.google.com/file/d/1_TkEGsu-WP6Ft_rE3k-2So14jiAp_xYt/v
 - Drag the build to the monitor, and extend it across both laptop and monitor screen. Adjust the window size as you extend.
 - Face the cameras used for drawing (webcam and phone), and pinch to draw. It is recommended to draw slowly at first to ensure your hand is being detected. 
 
-## To install and run the game in a Git Bash shell on a Windows computer
-<p>These instructions remain in the prototype code to assist with code debugging and game demonstration on a computer, but will not be available to users of the device.</p>
-
-### How to setup body tracking <br> 
+### How to setup body tracking
 
 Follow tutorial here: https://www.youtube.com/watch?v=xKRPwEDwzNg<br> 
 Tutorial below:<br> 
