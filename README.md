@@ -40,8 +40,8 @@ This [video](https://drive.google.com/file/d/1_TkEGsu-WP6Ft_rE3k-2So14jiAp_xYt/v
 <ul>
 <li>Physical black out box setup with decorations in coordination with the theme of the drawings (eg. sea themed).</li>
 <li>Seashell and string communication system.</li>
-<li>Tempered glass used to project the pepper's ghost.</li>
-<li>An inbuilt monitor used to project the pepper's ghost. (Power required)</li>
+<li>Tempered glass used to project the Pepper's Ghost.</li>
+<li>An inbuilt monitor used to project the Pepper's Ghost. (Power required)</li>
 <li>A tripod with a phone used as a webcam to track the user's hand for drawing.</li>
 <li>A laptop running the SampleScene project on it, to enable multiple users to engage with the system. This laptop is also connected to the monitor.</li>
 <li>An external webcam used in conjunction with the laptop's webcam for both body and hand tracking respectively.</li>
@@ -70,7 +70,8 @@ This [video](https://drive.google.com/file/d/1_TkEGsu-WP6Ft_rE3k-2So14jiAp_xYt/v
 
 ## To install and run the game in a Git Bash shell on a Windows computer
 <p>These instructions remain in the prototype code to assist with code debugging and game demonstration on a computer, but will not be available to users of the device.</p><br> 
-How to setup body tracking <br> 
+
+###How to setup body tracking <br> 
 
 Follow tutorial here: https://www.youtube.com/watch?v=xKRPwEDwzNg<br> 
 Tutorial below:<br> 
