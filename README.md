@@ -71,7 +71,7 @@ This [video](https://drive.google.com/file/d/1_TkEGsu-WP6Ft_rE3k-2So14jiAp_xYt/v
 ## To install and run the game in a Git Bash shell on a Windows computer
 <p>These instructions remain in the prototype code to assist with code debugging and game demonstration on a computer, but will not be available to users of the device.</p><br> 
 
-###How to setup body tracking <br> 
+### How to setup body tracking <br> 
 
 Follow tutorial here: https://www.youtube.com/watch?v=xKRPwEDwzNg<br> 
 Tutorial below:<br> 
