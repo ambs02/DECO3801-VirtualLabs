@@ -16,9 +16,10 @@ YUAN LIANG - Interactions Design, User Testing</p>
 ## Repository Organsation 
 
 This repository is organised into the following folders: 
-- materials: containing the supporting documents and images for this README file.<br>
+- materials: containing the supporting documents and images for this README file.
 - bg_remove:  containing the project codebase for background removal for body-edge tracking.<br>
-- unitypackage 1:  containing the Unity package for feature INSERT FEATURE HERE.<br>
+
+Please find the unity packages uploaded and submitted seperately.
 
 ## Video
 
@@ -71,7 +72,7 @@ This [video](https://drive.google.com/file/d/1_TkEGsu-WP6Ft_rE3k-2So14jiAp_xYt/v
 - Drag the build to the monitor, and extend it across both laptop and monitor screen. Adjust the window size as you extend.
 - Face the cameras used for drawing (webcam and phone), and pinch to draw. It is recommended to draw slowly at first to ensure your hand is being detected. 
 
-### How to setup body tracking
+### How to setup body tracking 
 
 Follow tutorial here: https://www.youtube.com/watch?v=xKRPwEDwzNg<br> 
 Tutorial below:<br> 
